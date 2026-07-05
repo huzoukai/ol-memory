@@ -1,0 +1,20 @@
+.DS_Store
+.env
+.env.*
+*.log
+*.pyc
+__pycache__/
+
+# Local user memory workspaces. Never commit real user data.
+OL-Memory/
+my-office-memory/
+office-memory-data/
+
+# Generated packages and exports.
+trae-pack/
+*.zip
+
+# UI dependencies and build output.
+office-memory-assistant/assets/ui/node_modules/
+office-memory-assistant/assets/ui/dist/
+office-memory-assistant/assets/ui/office-memory-ui.log

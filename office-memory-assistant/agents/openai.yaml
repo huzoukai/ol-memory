@@ -1,0 +1,6 @@
+interface:
+  display_name: "办公室记忆助手"
+  short_description: "本地办公记忆库与材料生成工作流"
+  default_prompt: "Use $office-memory-assistant to initialize my local OL-Memory and draft a company capability statement without inventing unsupported facts."
+policy:
+  allow_implicit_invocation: true
